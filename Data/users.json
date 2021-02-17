@@ -2,7 +2,7 @@
     {
       "index": 0,
       "name": "Shanu Rajput",
-      "picture": "https://ibb.co/7yrmvCB",
+      "picture": "https://c8.alamy.com/comp/2E54MFF/cartoon-character-3d-avatar-caucasian-female-customer-service-person-isolated-on-white-2E54MFF.jpg",
       "about": "Hello in china town",
       "email": "punita@gmail.com"
     },
@@ -30,7 +30,7 @@
     {
       "index": 4,
       "name": "Chitra Rajawat",
-      "picture": "https://ibb.co/LYgH5qT",
+      "picture": "https://c8.alamy.com/comp/2E54MFF/cartoon-character-3d-avatar-caucasian-female-customer-service-person-isolated-on-white-2E54MFF.jpg",
       "about": "Hello in china town",
       "email": "tanu@gmail.com"
     },
@@ -44,7 +44,7 @@
     {
       "index": 6,
       "name": "Chitra Rajawat",
-      "picture": "https://ibb.co/LYgH5qT",
+      "picture": "https://c8.alamy.com/comp/2E54MFF/cartoon-character-3d-avatar-caucasian-female-customer-service-person-isolated-on-white-2E54MFF.jpg",
       "about": "Hello in china town",
       "email": "tanu@gmail.com"
     },
@@ -58,7 +58,7 @@
     {
       "index": 8,
       "name": "Chitra Rajawat",
-      "picture": "https://ibb.co/LYgH5qT",
+      "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
       "about": "Hello in china town",
       "email": "tanu@gmail.com"
     },
@@ -72,7 +72,7 @@
     {
       "index": 10,
       "name": "Ankur Rajawat",
-      "picture": "https://ibb.co/LYgH5qT",
+      "picture": "https://c8.alamy.com/comp/2E54MFF/cartoon-character-3d-avatar-caucasian-female-customer-service-person-isolated-on-white-2E54MFF.jpg",
       "about": "Hello in china town",
       "email": "tanu@gmail.com"
     },
@@ -93,7 +93,7 @@
     {
       "index": 13,
       "name": "Chitrangana Rajawat",
-      "picture": "https://ibb.co/gwFk40h",
+      "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
       "about": "Hello in china town",
       "email": "tanu@gmail.com"
     },
@@ -107,8 +107,44 @@
     {
       "index": 15,
       "name": "Chitra Rajawat",
-      "picture": "https://ibb.co/gwFk40h",
+      "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
       "about": "Hello in china town",
       "email": "tanu@gmail.com"
+    },
+    {
+        "index": 16,
+        "name": "Shalini",
+        "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
+        "about": "Hello in china town",
+        "email": "tanu@gmail.com"
+    },
+    {
+        "index": 17,
+        "name": "Ankita",
+        "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
+        "about": "Hello in china town",
+        "email": "tanu@gmail.com"
+    },
+    {
+        "index": 18,
+        "name": "Sheetal Rajawat",
+        "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
+        "about": "Hello in china town",
+        "email": "tanu@gmail.com"
+    },
+    {
+        "index": 19,
+        "name": "Yashi Rajawat",
+        "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
+        "about": "Hello in china town",
+        "email": "tanu@gmail.com"
+    },
+    {
+        "index": 20,
+        "name": "Yatri Rajawat",
+        "picture": "https://c8.alamy.com/comp/JHP4DF/male-head-person-cartoon-avatar-image-JHP4DF.jpg",
+        "about": "Hello in china town",
+        "email": "tanu@gmail.com"
     }
+
   ]
