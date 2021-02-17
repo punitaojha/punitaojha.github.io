@@ -1,21 +1,114 @@
-[{"index": 0,
-    "name":"Shanu Rajput", 
-    "picture":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-    "about":"Hello in china town",
-    "email":"punita@gmail.com"},
-    {"index": 1,
-    "name":"Tanu Rajawat", 
-    "picture":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-    "about":"Hello in china town",
-    "email":"tanu@gmail.com"},
-    {"index": 2,
-        "name":"Piyani Rajawat", 
-        "picture":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-        "about":"Hello in china town",
-        "email":"tanu@gmail.com"},
-        {"index": 3,
-        "name":"Chitra Rajawat", 
-        "picture":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-        "about":"Hello in china town",
-        "email":"tanu@gmail.com"}
-    ]
+[
+    {
+      "index": 0,
+      "name": "Shanu Rajput",
+      "picture": "https://ibb.co/7yrmvCB",
+      "about": "Hello in china town",
+      "email": "punita@gmail.com"
+    },
+    {
+      "index": 1,
+      "name": "Tanu Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 2,
+      "name": "Piyani Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://ibb.co/LYgH5qT",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://ibb.co/LYgH5qT",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://ibb.co/LYgH5qT",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Ankur Rajawat",
+      "picture": "https://ibb.co/LYgH5qT",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Shailesh Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitrangana Rajawat",
+      "picture": "https://ibb.co/gwFk40h",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    },
+    {
+      "index": 3,
+      "name": "Chitra Rajawat",
+      "picture": "https://ibb.co/gwFk40h",
+      "about": "Hello in china town",
+      "email": "tanu@gmail.com"
+    }
+  ]
